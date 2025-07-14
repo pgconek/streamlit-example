@@ -6,7 +6,7 @@ from PIL import Image
 
 # --- 페이지 기본 설정 ----
 st.set_page_config(
-    page_title="통합허브 개발 주소(룰루랄라한기쌤 개발) - 마음 공부 포털",
+    page_title="통합허브 개발 주소(룰루랄라한기쌤) - 마음 공부 포털",
     page_icon="👋",
     layout="wide",
 )
