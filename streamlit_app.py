@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 from PIL import Image
 
-# --- 페이지 기본 설정 ---
+# --- 페이지 기본 설정 ----
 st.set_page_config(
     page_title="안녕하세요! 신송배입니다.",
     page_icon="👋",
